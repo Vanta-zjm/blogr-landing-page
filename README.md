@@ -8,9 +8,7 @@ This project replicates the Blogr platform marketing site, including dropdown me
 
 ## 📸 Preview  
 ![Desktop Preview](./preview/desktop-design.jpg)
-![Desktop Nav Preview](./preview/active-states.jpg)
 ![Mobile Menu](./preview/mobile-menu.jpg)
-![Responsive Layout](./preview/mobile-design.jpg)
 
 ## 🛠️ Built With
 - HTML5
