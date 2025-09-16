@@ -1,0 +1,77 @@
+/*Keyframe*/
+@keyframes navFadeIn{
+    0%{
+        transform: translateY(-40px);
+        opacity: 0;
+    }
+    100%{
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes heroFadeIn{
+    0%{
+        transform: translateY(60px);
+        opacity: 0;
+    }
+    100%{
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes EH2fadeIn{
+    0%{
+        opacity: 0;
+        transform: translateY(-60px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes ETBfadeIn{
+    0%{
+        opacity: 0;
+        transform: translateX(-80px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes Ih2fadeIn{
+    0%{
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes IpfadeIn{
+    0%{
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes TTBfadeIn{
+    0%{
+        opacity: 0;
+        transform: translateX(80px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
