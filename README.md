@@ -7,9 +7,10 @@ This project replicates the Blogr platform marketing site, including dropdown me
 [👉 View Online](https://vanta-zjm.github.io/blogr-landing-page/)
 
 ## 📸 Preview  
-![Desktop Preview](./images/desktop-preview.png)
-![Mobile Menu](./images/mobile-menu-preview.png)
-![Responsive Layout](./images/responsive-preview.png)
+![Desktop Preview](./preview/desktop-design.jpg)
+![Desktop Nav Preview](./preview/active-states.jpg)
+![Mobile Menu](./preview/mobile-menu.jpg)
+![Responsive Layout](./preview/mobile-design.jpg)
 
 ## 🛠️ Built With
 - HTML5
